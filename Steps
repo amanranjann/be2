@@ -1,0 +1,18 @@
+1)to create virtual environment command is:-
+     python3 -m virtualenv env
+
+
+
+2)activate virtual env by following command.
+     source env/bin/activate..
+
+
+3)install flask inside virtual environment by the command      pip install flask
+4)install pandas inside virtual environment by the command     pip install pandas
+
+
+
+
+
+Reference link for creating virtual environment
+  https://packaging.python.org/guides/installing-using-pip-and-virtualenv/
